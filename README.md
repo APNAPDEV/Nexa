@@ -12,7 +12,7 @@ NEXA_EN = English version.
  
 
 <!--![Image Alt](https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png) -->
-<img src="https://github.com/APNAPDEV/NEXA/blob/b845ecd0035eb71e00d16ae6e895338b8a8c1a16/Nexa.png" alt="NEXA Logo" width="450"/>
+<img src="https://github.com/APNAPDEV/Nexa/blob/190ea47906a7b537b46a188c035f9049c254fb56/Nexa.png" alt="NEXA Logo" width="450"/>
 
 >[!NOTE]
 >- Termita: Uninstall apps from your system.
